@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Slave_Nano328",
+			"path": "../../../../local-workspace/arduino/HeuWaage/Slave_Nano328"
+		},
+		{
+			"path": "../../../../Documents/PlatformIO/Projects/MTS_HX711_Arduino_I2C"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
