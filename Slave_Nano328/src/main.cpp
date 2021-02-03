@@ -419,8 +419,6 @@ void SaveCalReference(long v) {
 
 }
 
-
-
 void DumpEEPROM() {
   buffer.clear();
   Log.Info(CR"EEPROM DUMP >>>"CR);
