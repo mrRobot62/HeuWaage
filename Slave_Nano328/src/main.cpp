@@ -290,7 +290,7 @@ void CalibrateScale() {
         eepData[id].scale = (long)d1;
         eepData[id].offset = 0;
 
-        Log.Info("SCALE[%d].set_scale(%f) %f"CR, id, eepData[id].scale, d1);
+        Log.Info("SCALE[%d].set_scale(%f) %f"CR, id, ^eepData[id].scale, d1);
         SaveEEPROM(id);
         delay(100);
       } 
