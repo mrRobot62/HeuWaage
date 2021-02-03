@@ -9,6 +9,10 @@
 		},
 		{
 			"path": "../../../../Documents/PlatformIO/Projects/MTS_HX711_Arduino_I2C"
+		},
+		{
+			"name": "Master_ESP32",
+			"path": "../../../../local-workspace/arduino/HeuWaage/Master_ESP32"
 		}
 	],
 	"settings": {
